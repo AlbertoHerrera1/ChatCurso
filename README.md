@@ -18,7 +18,9 @@ En donde agregamos las dependencias de firebase, material design, recycler view 
 
 Las librerías que utilizamos las tomamos de 
 
-- https://github.com/hdodenhof/CircleImageView (circle image view)
-- https://firebase.google.com/docs/auth?authuser=0 (autenticación con Firebase)
-- https://firebase.google.com/docs/firestore?authuser=0 (base de datos Firestore)
+- https://developer.android.com/docs (Documentación Android)
+- https://github.com/hdodenhof/CircleImageView (Circle image view)
+- https://firebase.google.com/docs/auth?authuser=0 (Autenticación con Firebase)
+- https://firebase.google.com/docs/firestore?authuser=0 (Base de datos Firestore)
 - https://material.io/develop/android/docs/getting-started (Material Desgin)
+- https://developer.android.com/guide/topics/ui/layout/recyclerview (Información sobre RecyclerView)
