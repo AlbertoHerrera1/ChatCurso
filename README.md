@@ -24,3 +24,4 @@ Las librerías que utilizamos las tomamos de
 - https://firebase.google.com/docs/firestore?authuser=0 (Base de datos Firestore)
 - https://material.io/develop/android/docs/getting-started (Material Desgin)
 - https://developer.android.com/guide/topics/ui/layout/recyclerview (Información sobre RecyclerView)
+- https://developer.android.com/jetpack/androidx/releases/recyclerview (Información sobre RecyclerView de Androidx, ésta fue la librería que usamos aunque nos guiamos con la guía del punto anterior
